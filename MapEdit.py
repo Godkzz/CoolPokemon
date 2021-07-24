@@ -1,0 +1,5 @@
+fo = open("foo.txt", "w+")
+fo.write("python")
+s = fo.read()
+print(s)
+fo.close()
