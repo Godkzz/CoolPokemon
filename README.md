@@ -8,6 +8,6 @@ Based on the Pygame Pokemon game
   方向盘 ↑↓←→ 移动  
   z确认
   x返回 
-  enter菜单  
+  c菜单  
 【开始游戏】  
   运行view.py   
